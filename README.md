@@ -25,17 +25,11 @@ Installation :
 1.Clone the repository
 2.Open two terminals 
 In Terminal 1 , type:
-cd Authentication
-npm i
-cd client
-npm i
-cd ..
-npm run dev
+![image](https://user-images.githubusercontent.com/84218189/170879323-9b609967-34c2-436b-bac8-70fdfbe02c02.png)
+
 
 In Terminal 2 , type:
-cd Music
-npm i
-npm start
+![image](https://user-images.githubusercontent.com/84218189/170879384-5c3f8148-8d1c-4703-b630-5b7f5903d3b6.png)
 
 (Simply type localhost:3000 on your browser if the webpage dosen't open automatically)
 You're good to go !
