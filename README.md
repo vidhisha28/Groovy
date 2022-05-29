@@ -1,5 +1,6 @@
 # Groovy
 A MERN Stack based Music recommendation system
+The application recommends albums of songs to the users based on their preferred genre.
 Tech Stack used :
 Axios
 Bootstrap
@@ -11,10 +12,15 @@ Redux
 Spotify API
 TypeScript
 
+
+
 Motivation :
+
 To Understand recommendation system algorithms and implement it into something I am passionate about . The project helped me learn deeply about Node and react . Another key takeaway from the project is learning how spotify works miraculously recommending us exactly what we want to listen to!
 
-Installation 
+The app provides Sign In and Sign Up functionalities, and the options for search-based recommendations, casual browsing and song playback.
+
+Installation :
 
 1.Clone the repository
 2.Open two terminals 
