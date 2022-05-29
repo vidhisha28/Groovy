@@ -1,0 +1,13 @@
+.bottom {
+  width: 100%;
+  bottom: 100px;
+  position: absolute;
+  color: rgb(160, 160, 160);
+}
+.h2{
+  font-style: italic;
+  
+}
+.h6{
+  font-size: xx-large;
+}
